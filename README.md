@@ -1,14 +1,14 @@
-![MasterHead](https://user-images.githubusercontent.com/100144064/232302777-d4fb06de-187c-4776-bacb-9a89b2f76137.png)
-[![BurhanP110's GitHub | Stats](https://stats.quine.sh/BurhanP110/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=BurhanP110)
+
+
 
 <h1 align="center">A passionate developer from India</h1>
  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/burhanp110" target="blank"><img src="https://img.shields.io/twitter/follow/burhanp110?logo=twitter&style=for-the-badge" alt="burhanp110" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Python, Web-development**
+- 🌱 I’m currently learning **Java, Python, DSA, Web-development**
 
-- 👯 I’m looking to collaborate on **Anything I can help with**
+- 👯 I’m looking to collaborate on **Web-dev projects**
 
 - 💬 Ask me about **C, C++**
 
