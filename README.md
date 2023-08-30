@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Java, Python, DSA, Web-development**
 
-- 👯 I’m looking to collaborate on **Web-dev projects**
+- 👯 I’m looking to collaborate on **Web-dev projects, App-dev projects**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++, Kotlin, Java, JS**
 
 - 📫 How to reach me **burhanuddinp110@gmail.com**
 
